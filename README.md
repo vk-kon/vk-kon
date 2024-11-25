@@ -13,7 +13,7 @@ I'm a **Software Engineer** with **4+ years of experience** in developing secure
 ## 🛠️ Skills
 
 ### Languages
-- **Proficient**: Java, JavaScript, TypeScript, C++
+- **Languages**: Java, JavaScript, TypeScript, C++
 - **Frontend**: React.js, HTML/CSS
 - **Backend**: Node.js, Express.js, Spring Boot, Hibernate
 
@@ -27,10 +27,9 @@ I'm a **Software Engineer** with **4+ years of experience** in developing secure
 
 ## 📚 Education
 
-**Bachelor of Technology (B.Tech)**  
-Indian Institute of Information Technology (IIIT), Allahabad, Uttar Pradesh  
-**Specialization**: Information Technology  
-
+### Bachelor of Technology (B.Tech) in Information Technology  
+**Indian Institute of Information Technology (IIIT), Allahabad**  
+ 
 ---
 
 [📄 View My Resume](./Vamsi_Resume.pdf)
