@@ -33,12 +33,7 @@ Indian Institute of Information Technology (IIIT), Allahabad, Uttar Pradesh
 
 ---
 
-## 📈 Stats
-
-![Vamsi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vk-kon&show_icons=true&theme=radical)
-
----
-
+[📄 View My Resume](./Vamsi_Resume.pdf)
 
 
 
