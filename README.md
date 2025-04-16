@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Vamsi Krishna
-
-🔗 [LinkedIn](https://linkedin.com/in/vk-kon) | 📧 [Email Me](mailto:vk.konidena@gmail.com) | 📍 Hyderabad, Telangana, India  
+ 📧 [Email Me](mailto:vk.konidena@gmail.com) | 📍 Hyderabad, Telangana, India  
 
 ---
 
@@ -32,7 +31,7 @@ I'm a **Software Engineer** with **4+ years of experience** in developing secure
  
 ---
 
-[📄 View My Resume](./Vamsi_Resume.pdf)
+
 
 
 
