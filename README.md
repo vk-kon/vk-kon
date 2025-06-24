@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Vamsi Krishna
- 📧 [Email Me](mailto:vk.konidena@gmail.com) | 📍 Hyderabad, Telangana, India  
+ 📧 [Email Me](mailto:vk.konidena@gmail.com) | 📍 Hyderabad, Telangana, India  | [My Notes](https://vk-kon.github.io/Notes-Site/)
 
 ---
 
