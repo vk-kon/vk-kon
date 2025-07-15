@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** with **4+ years of experience** in developing secure RESTful APIs, scalable backend systems, and responsive front-end applications. 
+**Software Engineer** with **4+ years of experience** in developing secure RESTful APIs, scalable backend systems, and responsive frontend applications. 
 
 ---
 
