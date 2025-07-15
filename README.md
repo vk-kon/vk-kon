@@ -1,26 +1,23 @@
 # 👋 Hi, I'm Vamsi Krishna
- 📧 [Email Me](mailto:vk.konidena@gmail.com) | 📍 Hyderabad, Telangana, India  | [My Notes](https://vk-kon.github.io/mydevdocs/)
+ 📧 [Email Me](mailto:vk.konidena@gmail.com) | 📍 Hyderabad, Telangana, India  
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** with **4+ years of experience** in developing secure RESTful APIs, scalable backend systems, and responsive front-end applications. With a deep understanding of Java, React.js, and Node.js, I specialize in creating robust applications tailored to modern needs.
+I'm a **Software Engineer** with **4+ years of experience** in developing secure RESTful APIs, scalable backend systems, and responsive front-end applications. 
 
 ---
 
 ## 🛠️ Skills
 
-### Languages
-- **Languages**: Java, JavaScript, TypeScript, C++
-- **Frontend**: React.js, HTML/CSS
-- **Backend**: Node.js, Express.js, Spring Boot, Hibernate
+### Core
+- **Languages**: Java, Python, JavaScript
+- **Frontend**: React, HTML/CSS
+- **Backend**: Spring Boot, Django, Node.js
 
 ### Tools & Platforms
-- AWS, Docker, Kubernetes, Git, Jira, Bitbucket
-
-### Databases
-- SQL, MongoDB, JPA
+- MySQL, AWS, Docker, Kubernetes, Git, Jira, Bitbucket
 
 ---
 
